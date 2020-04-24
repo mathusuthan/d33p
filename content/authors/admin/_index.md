@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist
+role: "Mathusuthan Neyveli Kannan"
 
 # Organizations/Affiliations
 organizations:
@@ -69,4 +69,4 @@ email: ""
 #- Visitors
 ---
 
-I am an experienced full-stack Data Scientist. I have implemented end to end Machine Learning pipelines on-premise and on cloud for problems in various domains - Logistics, Pharma and Banking. I am an autodidact, avid Kaggler and a bookworm. In my free time I love to read books, and peruse University Courses and MOOCs.
+I am an experienced full-stack Data Scientist. I have implemented end to end Machine Learning pipelines on-premise and on cloud for problems in various domains - Banking, Logistics, Pharma and Retail. I am an autodidact, avid Kaggler and a bookworm. In my free time I love to read books, and peruse University Courses and MOOCs.
